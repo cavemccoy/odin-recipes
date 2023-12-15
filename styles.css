@@ -1,0 +1,35 @@
+body {
+    font-family: Verdana, sans-serif;
+}
+
+h1 {
+    background-color: #f66969;
+}
+
+.text-center {
+    text-align: center;
+}
+
+#description {
+    background-color: #78e270;
+}
+
+#ingredients {
+    background-color: #709ce2;
+}
+
+#steps {
+    background-color: #e270e2;
+}
+
+ul {
+    font-weight: 800;
+}
+
+ul li {
+    font-size: 20px;
+}
+
+ol li {
+    font-size: 24px;
+}
