@@ -1,5 +1,7 @@
 body {
-    font-family: Verdana, sans-serif;
+    font-family: Verdana, Arial, sans-serif;
+    width: 400px;
+    margin: 0px auto;
 }
 
 h1 {
@@ -27,9 +29,22 @@ ul {
 }
 
 ul li {
-    font-size: 20px;
+    font-size: 14px;
 }
 
 ol li {
-    font-size: 24px;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.main-menu {
+    background-color: green;
+    color: white;
+    padding: 20px;
+}
+
+.main-menu li {
+    background-color: #78e270;
+    margin: 10px;
+    padding: 10px;
 }
